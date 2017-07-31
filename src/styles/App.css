@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.container-fluid{
+  width: 90%;
+}
+
+.card{
+  height: 560px;
+  margin: 10px auto;
+}
